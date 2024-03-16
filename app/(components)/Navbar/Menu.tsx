@@ -7,7 +7,7 @@ interface LinkProps {
 
 const Menu = () => {
   return (
-    <div className="absolute top-0 right-0 lg:w-[30%] md:w-[30%] sm:w-[60%] w-[80%] h-full bg-black lg:p-10 p-6 border-l-4 border-green-400">
+    <div className="fixed top-0 right-0 lg:w-[30%] md:w-[30%] sm:w-[60%] w-[80%] h-full bg-black lg:p-10 p-6 border-l-4 border-green-400">
       <LinkMenu name="home" link="/" />
       <LinkMenu name="tees" link="/" />
       <LinkMenu name="hoodies" link="/" />

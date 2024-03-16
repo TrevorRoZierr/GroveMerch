@@ -1,9 +1,9 @@
-import Navbar from "./(components)/Navbar/Navbar";
+import MainBody from "./(components)/MainBody/MainBody";
 
 export default function Home() {
   return (
     <main>
-      <Navbar />
+      <MainBody />
     </main>
   );
 }

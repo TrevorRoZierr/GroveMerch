@@ -33,7 +33,7 @@ const Navbar = () => {
           alt=""
           width={400}
           height={100}
-          className="hover:opacity-50 duration-300 w-[200px] lg:w-[400px] lg:ml-0 ml-6"
+          className="hover:opacity-50 duration-300 w-[200px] lg:w-[400px] lg:ml-0 ml-2"
         />
       </Link>
       <div className="flex flex-row">
